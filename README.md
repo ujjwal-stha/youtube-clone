@@ -1,6 +1,6 @@
 # Youtube-Clone
 
-Covid-19 tracker app built using React and many dependencies like react-chart.js, react leaflet etc
+Youtube Clone app built using React, React Router and  dependencies like material-ui
 
 # Live Demo 🚀🚀🚀
 
@@ -20,7 +20,7 @@ Firebase
 
 Clone this repository
 
-- $ git clone
+- $ git clone https://github.com/ujjwal-stha/youtube-clone.git
 
 Go into the repository
 cd youtube-clone
